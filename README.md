@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nivetha2314
-- 👀 I’m interested in internet of things..
-- 🌱 I’m currently learning .IOT..
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in IBM..
+- 🌱 I’m currently learning . Interest of things..
+- 💞️ I’m looking to collaborate on Team members ...
 - 📫 How to reach me ...
 
 <!---
